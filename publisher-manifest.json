@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b0ddb4e8039ee02d43884f9a",
+  "owner": "jdtknry",
+  "repo": "page-a4cc5b1121563e8a618cd0ff",
+  "title": "KPax看世界(K)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a4cc5b1121563e8a618cd0ff",
+      "a": "KPax看世界(K)",
+      "b": "2027官方最新地址导航",
+      "entity": "KPax看世界(K)",
+      "brand": "KPax看世界(K)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "09dd824de4045d1b041240b0bc41d0cc4491ac247a60dd89c98757b2cc7d5d4a",
+      "content": {
+        "primary_entity": "KPax看世界(K)",
+        "keyword1": "KPax看世界(K)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，路由器与多设备场景建议优先查看路由器支持说明。",
+          "AI_CLIENTS_TITLE": "选择匹配设备的客户端",
+          "AI_CLOSING_TEXT": "从基础版到团队版，按流量和在线设备数挑一套适合自己的方案即可开始配置。",
+          "AI_CLOSING_TITLE": "选好套餐再配置订阅",
+          "AI_DESCRIPTION": "，围绕套餐选择、设备数量与订阅周期展开，帮助用户在基础版、旗舰版和团队版之间做出匹配自身流量需求的判断。基础版提供每月 100GB 流量并支持 3 台设备，旗舰版提升到 300GB 与 5 台设备并加入 IPLC 专线优化，团队版则覆盖 1000GB 与 20 台设备，按年付均有对应优惠。",
+          "AI_FEATURES_INTRO": "从流量额度、设备上限和线路类型三个维度对比三档套餐。",
+          "AI_FEATURES_TITLE": "套餐差异与适合人群",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备，适合个人手机与电脑轻度使用，按年付 150 元。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、支持 5 台设备，全节点流媒体解锁并含 IPLC 专线，按年付 350 元。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、支持 20 台设备，提供 VIP 高带宽节点与企业定制路由，按年付 850 元。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "线路与场景优化",
+          "AI_FEATURE_TITLE_3": "多设备团队方案",
+          "AI_GUIDE_INTRO": "先确认设备数量与月流量需求，再按客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "KPax看世界(K)提供基础版、旗舰版和团队版三档海外加速方案，月付 15 元起，按年付享有对应优惠，用户可按流量、设备数量和线路类型选择。",
+          "AI_HERO_SUBTITLE": "多档套餐匹配不同设备",
+          "AI_HIGHLIGHT_1": "基础版 15 元/月，含 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 35 元/月，IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "团队版 85 元/月，支持 20 台设备",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数和节点类型上依次提升，可按使用强度选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "确认每月大致流量与需要同时在线的设备台数，再对照套餐权益。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的客户端范围与设备系统要求，确认常用设备在列。",
+          "AI_STEP_TEXT_3": "按对应客户端的订阅导入说明完成配置，再检查节点与连接状态。",
+          "AI_STEP_TITLE_1": "确认需求",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "KPax看世界套餐速览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要差别在哪里？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备，提供基础流媒体解锁；旗舰版每月 300GB、支持 5 台设备，含全节点原生流媒体解锁和 IPLC 专线游戏加速优化。",
+          "AI_FAQ_QUESTION_2": "年付比月付能省多少？",
+          "AI_FAQ_ANSWER_2": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。年付相当于节省两个月费用。",
+          "AI_FAQ_QUESTION_3": "团队版适合多少台设备同时使用？",
+          "AI_FAQ_ANSWER_3": "团队版支持 20 台设备同时在线，每月 1000GB 流量，并提供 VIP 专属高带宽节点、企业定制路由和专属客户经理服务。",
+          "AI_FAQ_QUESTION_4": "订阅怎么导入到客户端？",
+          "AI_FAQ_ANSWER_4": "先按设备系统选择客户端，再依照客户端文档导入订阅地址，不同客户端的导入位置和字段名称可能不同。",
+          "AI_FAQ_QUESTION_5": "IPLC 专线对游戏有什么帮助？",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化，相比普通线路节点池，专线路径通常更稳定，适合对延迟敏感的游戏场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "blnkk.cn",
+    "host": "blnkk.cn"
+  },
+  "file_hashes": {
+    "index.html": "a066b9e0a7ea4c5d24bdd1e72ff18f98f5addc9d5b16e923dc582500d1912e01",
+    "sitemap.xml": "1e3844f093ca15e5035245df73d4bf047de1888006bcd9d382ea7ac2eb6043f6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7c075446e5cdd921614e0fabebcc8fb89eed114210dbac27e25f9ec97c6b3d1f",
+    "robots.txt": "8fb20ce0e7da7185d4b0597137d51e5094e15d187e9d4bf5364c9892899d07e5",
+    "ac49bd3e24d96242cc33dccf77dc0c6c.txt": "cbdf93fd99a7d8743614c20067c9ff02abab1bed5ea7e24aa2c7ef898a69270a"
+  },
+  "revision": "eb8ee3564070f6f1d20d4e47a086ed166402f89528835b8d6edcf610ddc6104c"
+}
